@@ -1,0 +1,2561 @@
+rank,school,year,champion
+1,Georgetown,1985,False
+16,Lehigh,1985,False
+8,Temple,1985,False
+9,Virginia Tech,1985,False
+5,SMU,1985,False
+12,Old Dominion,1985,False
+4,Loyola (IL),1985,False
+13,Iona,1985,False
+6,Georgia,1985,False
+11,Wichita State,1985,False
+3,Illinois,1985,False
+14,Northeastern,1985,False
+7,Syracuse,1985,False
+10,DePaul,1985,False
+2,Georgia Tech,1985,False
+15,Mercer,1985,False
+1,Oklahoma,1985,False
+16,North Carolina A&T,1985,False
+8,USC,1985,False
+9,Illinois State,1985,False
+5,Louisiana Tech,1985,False
+12,Pitt,1985,False
+4,Ohio State,1985,False
+13,Iowa State,1985,False
+6,Texas Tech,1985,False
+11,Boston College,1985,False
+3,Duke,1985,False
+14,Pepperdine,1985,False
+7,UAB,1985,False
+10,Michigan State,1985,False
+2,Memphis,1985,False
+15,Penn,1985,False
+1,Michigan,1985,False
+16,FDU,1985,False
+8,Villanova,1985,True
+9,Dayton,1985,False
+5,Maryland,1985,False
+12,Miami (OH),1985,False
+4,LSU,1985,False
+13,Navy,1985,False
+6,Purdue,1985,False
+11,Auburn,1985,False
+3,Kansas,1985,False
+14,Ohio,1985,False
+7,Notre Dame,1985,False
+10,Oregon State,1985,False
+2,UNC,1985,False
+15,Middle Tennessee,1985,False
+1,St. John's (NY),1985,False
+16,Southern,1985,False
+8,Iowa,1985,False
+9,Arkansas,1985,False
+5,Washington,1985,False
+12,Kentucky,1985,False
+4,UNLV,1985,False
+13,San Diego State,1985,False
+6,Tulsa,1985,False
+11,UTEP,1985,False
+3,NC State,1985,False
+14,Nevada,1985,False
+7,Alabama,1985,False
+10,Arizona,1985,False
+2,VCU,1985,False
+15,Marshall,1985,False
+1,Duke,1986,False
+16,Mississippi Valley State,1986,False
+8,Old Dominion,1986,False
+9,West Virginia,1986,False
+5,Virginia,1986,False
+12,DePaul,1986,False
+4,Oklahoma,1986,False
+13,Northeastern,1986,False
+6,St. Joseph's,1986,False
+11,Richmond,1986,False
+3,Indiana,1986,False
+14,Cleveland State,1986,False
+7,Navy,1986,False
+10,Tulsa,1986,False
+2,Syracuse,1986,False
+15,Brown,1986,False
+1,Kansas,1986,False
+16,North Carolina A&T,1986,False
+8,Jacksonville,1986,False
+9,Temple,1986,False
+5,Michigan State,1986,False
+12,Washington,1986,False
+4,Georgetown,1986,False
+13,Texas Tech,1986,False
+6,NC State,1986,False
+11,Iowa,1986,False
+3,Notre Dame,1986,False
+14,Little Rock,1986,False
+7,Iowa State,1986,False
+10,Miami (OH),1986,False
+2,Michigan,1986,False
+15,Akron,1986,False
+1,Kentucky,1986,False
+16,Davidson,1986,False
+8,Western Kentucky,1986,False
+9,Nebraska,1986,False
+5,Alabama,1986,False
+12,Xavier,1986,False
+4,Illinois,1986,False
+13,Fairfield,1986,False
+6,Purdue,1986,False
+11,LSU,1986,False
+3,Memphis,1986,False
+14,Ball State,1986,False
+7,Virginia Tech,1986,False
+10,Villanova,1986,False
+2,Georgia Tech,1986,False
+15,Marist,1986,False
+1,St. John's (NY),1986,False
+16,Montana State,1986,False
+8,Auburn,1986,False
+9,Arizona,1986,False
+5,Maryland,1986,False
+12,Pepperdine,1986,False
+4,UNLV,1986,False
+13,Louisiana-Monroe,1986,False
+6,UAB,1986,False
+11,Missouri,1986,False
+3,UNC,1986,False
+14,Utah,1986,False
+7,Bradley,1986,False
+10,UTEP,1986,False
+2,Louisville,1986,True
+15,Drexel,1986,False
+1,UNC,1987,False
+16,Penn,1987,False
+8,Navy,1987,False
+9,Michigan,1987,False
+5,Notre Dame,1987,False
+12,Middle Tennessee,1987,False
+4,TCU,1987,False
+13,Marshall,1987,False
+6,Florida,1987,False
+11,NC State,1987,False
+3,Purdue,1987,False
+14,Northeastern,1987,False
+7,West Virginia,1987,False
+10,Western Kentucky,1987,False
+2,Syracuse,1987,False
+15,Georgia Southern,1987,False
+1,Indiana,1987,True
+16,Fairfield,1987,False
+8,Auburn,1987,False
+9,San Diego,1987,False
+5,Duke,1987,False
+12,Texas A&M,1987,False
+4,Missouri,1987,False
+13,Xavier,1987,False
+6,St. John's (NY),1987,False
+11,Wichita State,1987,False
+3,DePaul,1987,False
+14,Louisiana Tech,1987,False
+7,Georgia Tech,1987,False
+10,LSU,1987,False
+2,Temple,1987,False
+15,Southern,1987,False
+1,Georgetown,1987,False
+16,Bucknell,1987,False
+8,Kentucky,1987,False
+9,Ohio State,1987,False
+5,Kansas,1987,False
+12,Houston,1987,False
+4,Clemson,1987,False
+13,Missouri State,1987,False
+6,Providence,1987,False
+11,UAB,1987,False
+3,Illinois,1987,False
+14,Austin Peay,1987,False
+7,New Orleans,1987,False
+10,BYU,1987,False
+2,Alabama,1987,False
+15,North Carolina A&T,1987,False
+1,UNLV,1987,False
+16,Idaho State,1987,False
+8,Georgia,1987,False
+9,Kansas State,1987,False
+5,Virginia,1987,False
+12,Wyoming,1987,False
+4,UCLA,1987,False
+13,Central Michigan,1987,False
+6,Oklahoma,1987,False
+11,Tulsa,1987,False
+3,Pitt,1987,False
+14,Marist,1987,False
+7,UTEP,1987,False
+10,Arizona,1987,False
+2,Iowa,1987,False
+15,Santa Clara,1987,False
+1,Temple,1988,False
+16,Lehigh,1988,False
+8,Georgetown,1988,False
+9,LSU,1988,False
+5,Georgia Tech,1988,False
+12,Iowa State,1988,False
+4,Indiana,1988,False
+13,Richmond,1988,False
+6,Missouri,1988,False
+11,Rhode Island,1988,False
+3,Syracuse,1988,False
+14,North Carolina A&T,1988,False
+7,SMU,1988,False
+10,Notre Dame,1988,False
+2,Duke,1988,False
+15,Boston University,1988,False
+1,Purdue,1988,False
+16,FDU,1988,False
+8,Baylor,1988,False
+9,Memphis,1988,False
+5,DePaul,1988,False
+12,Wichita State,1988,False
+4,Kansas State,1988,False
+13,La Salle,1988,False
+6,Kansas,1988,True
+11,Xavier,1988,False
+3,NC State,1988,False
+14,Murray State,1988,False
+7,Vanderbilt,1988,False
+10,Utah State,1988,False
+2,Pitt,1988,False
+15,Eastern Michigan,1988,False
+1,Oklahoma,1988,False
+16,Chattanooga,1988,False
+8,Auburn,1988,False
+9,Bradley,1988,False
+5,Louisville,1988,False
+12,Oregon State,1988,False
+4,BYU,1988,False
+13,Charlotte,1988,False
+6,Villanova,1988,False
+11,Arkansas,1988,False
+3,Illinois,1988,False
+14,UTSA,1988,False
+7,Maryland,1988,False
+10,UCSB,1988,False
+2,Kentucky,1988,False
+15,Southern,1988,False
+1,Arizona,1988,False
+16,Cornell,1988,False
+8,Seton Hall,1988,False
+9,UTEP,1988,False
+5,Iowa,1988,False
+12,Florida State,1988,False
+4,UNLV,1988,False
+13,Missouri State,1988,False
+6,Florida,1988,False
+11,St. John's (NY),1988,False
+3,Michigan,1988,False
+14,Boise State,1988,False
+7,Wyoming,1988,False
+10,Loyola Marymount,1988,False
+2,UNC,1988,False
+15,North Texas,1988,False
+1,Georgetown,1989,False
+16,Princeton,1989,False
+8,Vanderbilt,1989,False
+9,Notre Dame,1989,False
+5,NC State,1989,False
+12,South Carolina,1989,False
+4,Iowa,1989,False
+13,Rutgers,1989,False
+6,Kansas State,1989,False
+11,Minnesota,1989,False
+3,Stanford,1989,False
+14,Siena,1989,False
+7,West Virginia,1989,False
+10,Tennessee,1989,False
+2,Duke,1989,False
+15,South Carolina State,1989,False
+1,Illinois,1989,False
+16,McNeese State,1989,False
+8,Pitt,1989,False
+9,Ball State,1989,False
+5,Arkansas,1989,False
+12,Loyola Marymount,1989,False
+4,Louisville,1989,False
+13,Little Rock,1989,False
+6,Georgia Tech,1989,False
+11,Texas,1989,False
+3,Missouri,1989,False
+14,Creighton,1989,False
+7,Florida,1989,False
+10,Colorado State,1989,False
+2,Syracuse,1989,False
+15,Bucknell,1989,False
+1,Oklahoma,1989,False
+16,ETSU,1989,False
+8,La Salle,1989,False
+9,Louisiana Tech,1989,False
+5,Virginia,1989,False
+12,Providence,1989,False
+4,Florida State,1989,False
+13,Middle Tennessee,1989,False
+6,Alabama,1989,False
+11,South Alabama,1989,False
+3,Michigan,1989,True
+14,Xavier,1989,False
+7,UCLA,1989,False
+10,Iowa State,1989,False
+2,UNC,1989,False
+15,Southern,1989,False
+1,Arizona,1989,False
+16,Robert Morris,1989,False
+8,Saint Mary's,1989,False
+9,Clemson,1989,False
+5,Memphis,1989,False
+12,DePaul,1989,False
+4,UNLV,1989,False
+13,Idaho,1989,False
+6,Oregon State,1989,False
+11,Evansville,1989,False
+3,Seton Hall,1989,False
+14,Missouri State,1989,False
+7,UTEP,1989,False
+10,LSU,1989,False
+2,Indiana,1989,False
+15,George Mason,1989,False
+1,UConn,1990,False
+16,Boston University,1990,False
+8,Indiana,1990,False
+9,California,1990,False
+5,Clemson,1990,False
+12,BYU,1990,False
+4,La Salle,1990,False
+13,Southern Miss,1990,False
+6,St. John's (NY),1990,False
+11,Temple,1990,False
+3,Duke,1990,False
+14,Richmond,1990,False
+7,UCLA,1990,False
+10,UAB,1990,False
+2,Kansas,1990,False
+15,Robert Morris,1990,False
+1,Oklahoma,1990,False
+16,Towson,1990,False
+8,UNC,1990,False
+9,Missouri State,1990,False
+5,Illinois,1990,False
+12,Dayton,1990,False
+4,Arkansas,1990,False
+13,Princeton,1990,False
+6,Xavier,1990,False
+11,Kansas State,1990,False
+3,Georgetown,1990,False
+14,Texas Southern,1990,False
+7,Georgia,1990,False
+10,Texas,1990,False
+2,Purdue,1990,False
+15,Louisiana-Monroe,1990,False
+1,Michigan State,1990,False
+16,Murray State,1990,False
+8,Houston,1990,False
+9,UCSB,1990,False
+5,LSU,1990,False
+12,Villanova,1990,False
+4,Georgia Tech,1990,False
+13,ETSU,1990,False
+6,Minnesota,1990,False
+11,UTEP,1990,False
+3,Missouri,1990,False
+14,Northern Iowa,1990,False
+7,Virginia,1990,False
+10,Notre Dame,1990,False
+2,Syracuse,1990,False
+15,Coppin State,1990,False
+1,UNLV,1990,True
+16,Little Rock,1990,False
+8,Ohio State,1990,False
+9,Providence,1990,False
+5,Oregon State,1990,False
+12,Ball State,1990,False
+4,Louisville,1990,False
+13,Idaho,1990,False
+6,New Mexico State,1990,False
+11,Loyola Marymount,1990,False
+3,Michigan,1990,False
+14,Illinois State,1990,False
+7,Alabama,1990,False
+10,Colorado State,1990,False
+2,Arizona,1990,False
+15,South Florida,1990,False
+1,UNC,1991,False
+16,Northeastern,1991,False
+8,Princeton,1991,False
+9,Villanova,1991,False
+5,Mississippi State,1991,False
+12,Eastern Michigan,1991,False
+4,UCLA,1991,False
+13,Penn State,1991,False
+6,NC State,1991,False
+11,Southern Miss,1991,False
+3,Oklahoma State,1991,False
+14,New Mexico,1991,False
+7,Purdue,1991,False
+10,Temple,1991,False
+2,Syracuse,1991,False
+15,Richmond,1991,False
+1,Ohio State,1991,False
+16,Towson,1991,False
+8,Georgia Tech,1991,False
+9,DePaul,1991,False
+5,Texas,1991,False
+12,St. Peter's,1991,False
+4,St. John's (NY),1991,False
+13,Northern Illinois,1991,False
+6,LSU,1991,False
+11,UConn,1991,False
+3,Nebraska,1991,False
+14,Xavier,1991,False
+7,Iowa,1991,False
+10,ETSU,1991,False
+2,Duke,1991,True
+15,Louisiana-Monroe,1991,False
+1,Arkansas,1991,False
+16,Georgia State,1991,False
+8,Arizona State,1991,False
+9,Rutgers,1991,False
+5,Wake Forest,1991,False
+12,Louisiana Tech,1991,False
+4,Alabama,1991,False
+13,Murray State,1991,False
+6,Pitt,1991,False
+11,Georgia,1991,False
+3,Kansas,1991,False
+14,New Orleans,1991,False
+7,Florida State,1991,False
+10,USC,1991,False
+2,Indiana,1991,False
+15,Coastal Carolina,1991,False
+1,UNLV,1991,False
+16,Montana,1991,False
+8,Georgetown,1991,False
+9,Vanderbilt,1991,False
+5,Michigan State,1991,False
+12,Green Bay,1991,False
+4,Utah,1991,False
+13,South Alabama,1991,False
+6,New Mexico State,1991,False
+11,Creighton,1991,False
+3,Seton Hall,1991,False
+14,Pepperdine,1991,False
+7,Virginia,1991,False
+10,BYU,1991,False
+2,Arizona,1991,False
+15,Saint Francis (PA),1991,False
+1,Duke,1992,True
+16,Campbell,1992,False
+8,Texas,1992,False
+9,Iowa,1992,False
+5,Missouri,1992,False
+12,West Virginia,1992,False
+4,Seton Hall,1992,False
+13,La Salle,1992,False
+6,Syracuse,1992,False
+11,Princeton,1992,False
+3,UMass,1992,False
+14,Fordham,1992,False
+7,Charlotte,1992,False
+10,Iowa State,1992,False
+2,Kentucky,1992,False
+15,Old Dominion,1992,False
+1,Kansas,1992,False
+16,Howard,1992,False
+8,Evansville,1992,False
+9,UTEP,1992,False
+5,Michigan State,1992,False
+12,Missouri State,1992,False
+4,Cincinnati,1992,False
+13,Delaware,1992,False
+6,Memphis,1992,False
+11,Pepperdine,1992,False
+3,Arkansas,1992,False
+14,Murray State,1992,False
+7,Georgia Tech,1992,False
+10,Houston,1992,False
+2,USC,1992,False
+15,Louisiana-Monroe,1992,False
+1,Ohio State,1992,False
+16,Mississippi Valley State,1992,False
+8,Nebraska,1992,False
+9,UConn,1992,False
+5,Alabama,1992,False
+12,Stanford,1992,False
+4,UNC,1992,False
+13,Miami (OH),1992,False
+6,Michigan,1992,False
+11,Temple,1992,False
+3,Arizona,1992,False
+14,ETSU,1992,False
+7,St. John's (NY),1992,False
+10,Tulane,1992,False
+2,Oklahoma State,1992,False
+15,Georgia Southern,1992,False
+1,UCLA,1992,False
+16,Robert Morris,1992,False
+8,Louisville,1992,False
+9,Wake Forest,1992,False
+5,DePaul,1992,False
+12,New Mexico State,1992,False
+4,Oklahoma,1992,False
+13,Louisiana,1992,False
+6,Georgetown,1992,False
+11,South Florida,1992,False
+3,Florida State,1992,False
+14,Montana,1992,False
+7,LSU,1992,False
+10,BYU,1992,False
+2,Indiana,1992,False
+15,Eastern Illinois,1992,False
+1,UNC,1993,True
+16,East Carolina,1993,False
+8,Rhode Island,1993,False
+9,Purdue,1993,False
+5,St. John's (NY),1993,False
+12,Texas Tech,1993,False
+4,Arkansas,1993,False
+13,Holy Cross,1993,False
+6,Virginia,1993,False
+11,Manhattan,1993,False
+3,UMass,1993,False
+14,Penn,1993,False
+7,New Mexico State,1993,False
+10,Nebraska,1993,False
+2,Cincinnati,1993,False
+15,Coppin State,1993,False
+1,Indiana,1993,False
+16,Wright State,1993,False
+8,New Orleans,1993,False
+9,Xavier,1993,False
+5,Oklahoma State,1993,False
+12,Marquette,1993,False
+4,Louisville,1993,False
+13,Delaware,1993,False
+6,California,1993,False
+11,LSU,1993,False
+3,Duke,1993,False
+14,Southern Illinois,1993,False
+7,BYU,1993,False
+10,SMU,1993,False
+2,Kansas,1993,False
+15,Ball State,1993,False
+1,Kentucky,1993,False
+16,Rider,1993,False
+8,Utah,1993,False
+9,Pitt,1993,False
+5,Wake Forest,1993,False
+12,Chattanooga,1993,False
+4,Iowa,1993,False
+13,Louisiana-Monroe,1993,False
+6,Kansas State,1993,False
+11,Tulane,1993,False
+3,Florida State,1993,False
+14,Evansville,1993,False
+7,Western Kentucky,1993,False
+10,Memphis,1993,False
+2,Seton Hall,1993,False
+15,Tennessee State,1993,False
+1,Michigan,1993,False
+16,Coastal Carolina,1993,False
+8,Iowa State,1993,False
+9,UCLA,1993,False
+5,New Mexico,1993,False
+12,George Washington,1993,False
+4,Georgia Tech,1993,False
+13,Southern,1993,False
+6,Illinois,1993,False
+11,Long Beach State,1993,False
+3,Vanderbilt,1993,False
+14,Boise State,1993,False
+7,Temple,1993,False
+10,Missouri,1993,False
+2,Arizona,1993,False
+15,Santa Clara,1993,False
+1,UNC,1994,False
+16,Liberty,1994,False
+8,Washington State,1994,False
+9,Boston College,1994,False
+5,Indiana,1994,False
+12,Ohio,1994,False
+4,Temple,1994,False
+13,Drexel,1994,False
+6,Nebraska,1994,False
+11,Penn,1994,False
+3,Florida,1994,False
+14,James Madison,1994,False
+7,UAB,1994,False
+10,George Washington,1994,False
+2,UConn,1994,False
+15,Rider,1994,False
+1,Arkansas,1994,True
+16,North Carolina A&T,1994,False
+8,Illinois,1994,False
+9,Georgetown,1994,False
+5,UCLA,1994,False
+12,Tulsa,1994,False
+4,Oklahoma State,1994,False
+13,New Mexico State,1994,False
+6,Texas,1994,False
+11,Western Kentucky,1994,False
+3,Michigan,1994,False
+14,Pepperdine,1994,False
+7,Saint Louis,1994,False
+10,Maryland,1994,False
+2,UMass,1994,False
+15,Texas State,1994,False
+1,Purdue,1994,False
+16,UCF,1994,False
+8,Providence,1994,False
+9,Alabama,1994,False
+5,Wake Forest,1994,False
+12,College of Charleston,1994,False
+4,Kansas,1994,False
+13,Chattanooga,1994,False
+6,Marquette,1994,False
+11,Louisiana,1994,False
+3,Kentucky,1994,False
+14,Tennessee State,1994,False
+7,Michigan State,1994,False
+10,Seton Hall,1994,False
+2,Duke,1994,False
+15,Texas Southern,1994,False
+1,Missouri,1994,False
+16,Navy,1994,False
+8,Cincinnati,1994,False
+9,Wisconsin,1994,False
+5,California,1994,False
+12,Green Bay,1994,False
+4,Syracuse,1994,False
+13,Hawaii,1994,False
+6,Minnesota,1994,False
+11,Southern Illinois,1994,False
+3,Louisville,1994,False
+14,Boise State,1994,False
+7,Virginia,1994,False
+10,New Mexico,1994,False
+2,Arizona,1994,False
+15,Loyola (MD),1994,False
+1,Wake Forest,1995,False
+16,North Carolina A&T,1995,False
+8,Minnesota,1995,False
+9,Saint Louis,1995,False
+5,Alabama,1995,False
+12,Penn,1995,False
+4,Oklahoma State,1995,False
+13,Drexel,1995,False
+6,Tulsa,1995,False
+11,Illinois,1995,False
+3,Villanova,1995,False
+14,Old Dominion,1995,False
+7,Charlotte,1995,False
+10,Stanford,1995,False
+2,UMass,1995,False
+15,St. Peter's,1995,False
+1,Kansas,1995,False
+16,Colgate,1995,False
+8,Western Kentucky,1995,False
+9,Michigan,1995,False
+5,Arizona,1995,False
+12,Miami (OH),1995,False
+4,Virginia,1995,False
+13,Nicholls State,1995,False
+6,Memphis,1995,False
+11,Louisville,1995,False
+3,Purdue,1995,False
+14,Green Bay,1995,False
+7,Syracuse,1995,False
+10,Southern Illinois,1995,False
+2,Arkansas,1995,False
+15,Texas Southern,1995,False
+1,Kentucky,1995,False
+16,Mount St. Mary's,1995,False
+8,BYU,1995,False
+9,Tulane,1995,False
+5,Arizona State,1995,False
+12,Ball State,1995,False
+4,Oklahoma,1995,False
+13,Manhattan,1995,False
+6,Georgetown,1995,False
+11,Xavier,1995,False
+3,Michigan State,1995,False
+14,Weber State,1995,False
+7,Iowa State,1995,False
+10,Florida,1995,False
+2,UNC,1995,False
+15,Murray State,1995,False
+1,UCLA,1995,True
+16,Florida International,1995,False
+8,Missouri,1995,False
+9,Indiana,1995,False
+5,Mississippi State,1995,False
+12,Santa Clara,1995,False
+4,Utah,1995,False
+13,Long Beach State,1995,False
+6,Oregon,1995,False
+11,Texas,1995,False
+3,Maryland,1995,False
+14,Gonzaga,1995,False
+7,Cincinnati,1995,False
+10,Temple,1995,False
+2,UConn,1995,False
+15,Chattanooga,1995,False
+1,UMass,1996,False
+16,UCF,1996,False
+8,Bradley,1996,False
+9,Stanford,1996,False
+5,Penn State,1996,False
+12,Arkansas,1996,False
+4,Marquette,1996,False
+13,Monmouth,1996,False
+6,UNC,1996,False
+11,New Orleans,1996,False
+3,Texas Tech,1996,False
+14,Northern Illinois,1996,False
+7,New Mexico,1996,False
+10,Kansas State,1996,False
+2,Georgetown,1996,False
+15,Mississippi Valley State,1996,False
+1,Kentucky,1996,True
+16,San Jose State,1996,False
+8,Green Bay,1996,False
+9,Virginia Tech,1996,False
+5,Iowa State,1996,False
+12,California,1996,False
+4,Utah,1996,False
+13,Canisius,1996,False
+6,Louisville,1996,False
+11,Tulsa,1996,False
+3,Villanova,1996,False
+14,Portland,1996,False
+7,Michigan,1996,False
+10,Texas,1996,False
+2,Wake Forest,1996,False
+15,Louisiana-Monroe,1996,False
+1,UConn,1996,False
+16,Colgate,1996,False
+8,Duke,1996,False
+9,Eastern Michigan,1996,False
+5,Mississippi State,1996,False
+12,VCU,1996,False
+4,UCLA,1996,False
+13,Princeton,1996,False
+6,Indiana,1996,False
+11,Boston College,1996,False
+3,Georgia Tech,1996,False
+14,Austin Peay,1996,False
+7,Temple,1996,False
+10,Oklahoma,1996,False
+2,Cincinnati,1996,False
+15,UNC Greensboro,1996,False
+1,Purdue,1996,False
+16,Western Carolina,1996,False
+8,Georgia,1996,False
+9,Clemson,1996,False
+5,Memphis,1996,False
+12,Drexel,1996,False
+4,Syracuse,1996,False
+13,Montana State,1996,False
+6,Iowa,1996,False
+11,George Washington,1996,False
+3,Arizona,1996,False
+14,Valparaiso,1996,False
+7,Maryland,1996,False
+10,Santa Clara,1996,False
+2,Kansas,1996,False
+15,South Carolina State,1996,False
+1,UNC,1997,False
+16,Fairfield,1997,False
+8,Indiana,1997,False
+9,Colorado,1997,False
+5,California,1997,False
+12,Princeton,1997,False
+4,Villanova,1997,False
+13,LIU,1997,False
+6,Louisville,1997,False
+11,UMass,1997,False
+3,New Mexico,1997,False
+14,Old Dominion,1997,False
+7,Wisconsin,1997,False
+10,Texas,1997,False
+2,South Carolina,1997,False
+15,Coppin State,1997,False
+1,Minnesota,1997,False
+16,Texas State,1997,False
+8,Ole Miss,1997,False
+9,Temple,1997,False
+5,Tulsa,1997,False
+12,Boston University,1997,False
+4,Clemson,1997,False
+13,Miami (OH),1997,False
+6,Iowa State,1997,False
+11,Illinois State,1997,False
+3,Cincinnati,1997,False
+14,Butler,1997,False
+7,Xavier,1997,False
+10,Vanderbilt,1997,False
+2,UCLA,1997,False
+15,Charleston Southern,1997,False
+1,Kansas,1997,False
+16,Jackson State,1997,False
+8,Purdue,1997,False
+9,Rhode Island,1997,False
+5,Maryland,1997,False
+12,College of Charleston,1997,False
+4,Arizona,1997,True
+13,South Alabama,1997,False
+6,Illinois,1997,False
+11,USC,1997,False
+3,Georgia,1997,False
+14,Chattanooga,1997,False
+7,Marquette,1997,False
+10,Providence,1997,False
+2,Duke,1997,False
+15,Murray State,1997,False
+1,Kentucky,1997,False
+16,Montana,1997,False
+8,Iowa,1997,False
+9,Virginia,1997,False
+5,Boston College,1997,False
+12,Valparaiso,1997,False
+4,St. Joseph's,1997,False
+13,Pacific,1997,False
+6,Stanford,1997,False
+11,Oklahoma,1997,False
+3,Wake Forest,1997,False
+14,Saint Mary's,1997,False
+7,Charlotte,1997,False
+10,Georgetown,1997,False
+2,Utah,1997,False
+15,Navy,1997,False
+1,UNC,1998,False
+16,Navy,1998,False
+8,Charlotte,1998,False
+9,UIC,1998,False
+5,Princeton,1998,False
+12,UNLV,1998,False
+4,Michigan State,1998,False
+13,Eastern Michigan,1998,False
+6,Xavier,1998,False
+11,Washington,1998,False
+3,South Carolina,1998,False
+14,Richmond,1998,False
+7,Indiana,1998,False
+10,Oklahoma,1998,False
+2,UConn,1998,False
+15,FDU,1998,False
+1,Kansas,1998,False
+16,Prairie View,1998,False
+8,Rhode Island,1998,False
+9,Murray State,1998,False
+5,TCU,1998,False
+12,Florida State,1998,False
+4,Ole Miss,1998,False
+13,Valparaiso,1998,False
+6,Clemson,1998,False
+11,Western Michigan,1998,False
+3,Stanford,1998,False
+14,College of Charleston,1998,False
+7,St. John's (NY),1998,False
+10,Detroit Mercy,1998,False
+2,Purdue,1998,False
+15,Delaware,1998,False
+1,Duke,1998,False
+16,Radford,1998,False
+8,Oklahoma State,1998,False
+9,George Washington,1998,False
+5,Syracuse,1998,False
+12,Iona,1998,False
+4,New Mexico,1998,False
+13,Butler,1998,False
+6,UCLA,1998,False
+11,Miami (FL),1998,False
+3,Michigan,1998,False
+14,Davidson,1998,False
+7,UMass,1998,False
+10,Saint Louis,1998,False
+2,Kentucky,1998,True
+15,South Carolina State,1998,False
+1,Arizona,1998,False
+16,Nicholls State,1998,False
+8,Tennessee,1998,False
+9,Illinois State,1998,False
+5,Illinois,1998,False
+12,South Alabama,1998,False
+4,Maryland,1998,False
+13,Utah State,1998,False
+6,Arkansas,1998,False
+11,Nebraska,1998,False
+3,Utah,1998,False
+14,San Francisco,1998,False
+7,Temple,1998,False
+10,West Virginia,1998,False
+2,Cincinnati,1998,False
+15,Northern Arizona,1998,False
+1,Duke,1999,False
+16,Florida A&M,1999,False
+8,College of Charleston,1999,False
+9,Tulsa,1999,False
+5,Wisconsin,1999,False
+12,Missouri State,1999,False
+4,Tennessee,1999,False
+13,Delaware,1999,False
+6,Temple,1999,False
+11,Kent State,1999,False
+3,Cincinnati,1999,False
+14,George Mason,1999,False
+7,Texas,1999,False
+10,Purdue,1999,False
+2,Miami (FL),1999,False
+15,Lafayette,1999,False
+1,Michigan State,1999,False
+16,Mount St. Mary's,1999,False
+8,Villanova,1999,False
+9,Ole Miss,1999,False
+5,Charlotte,1999,False
+12,Rhode Island,1999,False
+4,Arizona,1999,False
+13,Oklahoma,1999,False
+6,Kansas,1999,False
+11,Evansville,1999,False
+3,Kentucky,1999,False
+14,New Mexico State,1999,False
+7,Washington,1999,False
+10,Miami (OH),1999,False
+2,Utah,1999,False
+15,Arkansas State,1999,False
+1,Auburn,1999,False
+16,Winthrop,1999,False
+8,Syracuse,1999,False
+9,Oklahoma State,1999,False
+5,UCLA,1999,False
+12,Detroit Mercy,1999,False
+4,Ohio State,1999,False
+13,Murray State,1999,False
+6,Indiana,1999,False
+11,George Washington,1999,False
+3,St. John's (NY),1999,False
+14,Samford,1999,False
+7,Louisville,1999,False
+10,Creighton,1999,False
+2,Maryland,1999,False
+15,Valparaiso,1999,False
+1,UConn,1999,True
+16,UTSA,1999,False
+8,Missouri,1999,False
+9,New Mexico,1999,False
+5,Iowa,1999,False
+12,UAB,1999,False
+4,Arkansas,1999,False
+13,Siena,1999,False
+6,Florida,1999,False
+11,Penn,1999,False
+3,UNC,1999,False
+14,Weber State,1999,False
+7,Minnesota,1999,False
+10,Gonzaga,1999,False
+2,Stanford,1999,False
+15,Alcorn State,1999,False
+1,Duke,2000,False
+16,Lamar,2000,False
+8,Kansas,2000,False
+9,DePaul,2000,False
+5,Florida,2000,False
+12,Butler,2000,False
+4,Illinois,2000,False
+13,Penn,2000,False
+6,Indiana,2000,False
+11,Pepperdine,2000,False
+3,Oklahoma State,2000,False
+14,Hofstra,2000,False
+7,Oregon,2000,False
+10,Seton Hall,2000,False
+2,Temple,2000,False
+15,Lafayette,2000,False
+1,Michigan State,2000,True
+16,Valparaiso,2000,False
+8,Utah,2000,False
+9,Saint Louis,2000,False
+5,Kentucky,2000,False
+12,St. Bonaventure,2000,False
+4,Syracuse,2000,False
+13,Samford,2000,False
+6,UCLA,2000,False
+11,Ball State,2000,False
+3,Maryland,2000,False
+14,Iona,2000,False
+7,Auburn,2000,False
+10,Creighton,2000,False
+2,Iowa State,2000,False
+15,Central Connecticut,2000,False
+1,Stanford,2000,False
+16,South Carolina State,2000,False
+8,UNC,2000,False
+9,Missouri,2000,False
+5,UConn,2000,False
+12,Utah State,2000,False
+4,Tennessee,2000,False
+13,Louisiana,2000,False
+6,Miami (FL),2000,False
+11,Arkansas,2000,False
+3,Ohio State,2000,False
+14,Appalachian State,2000,False
+7,Tulsa,2000,False
+10,UNLV,2000,False
+2,Cincinnati,2000,False
+15,UNC Wilmington,2000,False
+1,Arizona,2000,False
+16,Jackson State,2000,False
+8,Wisconsin,2000,False
+9,Fresno State,2000,False
+5,Texas,2000,False
+12,Indiana State,2000,False
+4,LSU,2000,False
+13,Southeast Missouri State,2000,False
+6,Purdue,2000,False
+11,Dayton,2000,False
+3,Oklahoma,2000,False
+14,Winthrop,2000,False
+7,Louisville,2000,False
+10,Gonzaga,2000,False
+2,St. John's (NY),2000,False
+15,Northern Arizona,2000,False
+1,Duke,2001,True
+16,Monmouth,2001,False
+8,Georgia,2001,False
+9,Missouri,2001,False
+5,Ohio State,2001,False
+12,Utah State,2001,False
+4,UCLA,2001,False
+13,Hofstra,2001,False
+6,USC,2001,False
+11,Oklahoma State,2001,False
+3,Boston College,2001,False
+14,Southern Utah,2001,False
+7,Iowa,2001,False
+10,Creighton,2001,False
+2,Kentucky,2001,False
+15,Holy Cross,2001,False
+1,Illinois,2001,False
+16,Northwestern State,2001,False
+8,Tennessee,2001,False
+9,Charlotte,2001,False
+5,Syracuse,2001,False
+12,Hawaii,2001,False
+4,Kansas,2001,False
+13,Cal State Northridge,2001,False
+6,Notre Dame,2001,False
+11,Xavier,2001,False
+3,Ole Miss,2001,False
+14,Iona,2001,False
+7,Wake Forest,2001,False
+10,Butler,2001,False
+2,Arizona,2001,False
+15,Eastern Illinois,2001,False
+1,Michigan State,2001,False
+16,Alabama State,2001,False
+8,California,2001,False
+9,Fresno State,2001,False
+5,Virginia,2001,False
+12,Gonzaga,2001,False
+4,Oklahoma,2001,False
+13,Indiana State,2001,False
+6,Texas,2001,False
+11,Temple,2001,False
+3,Florida,2001,False
+14,Western Kentucky,2001,False
+7,Penn State,2001,False
+10,Providence,2001,False
+2,UNC,2001,False
+15,Princeton,2001,False
+1,Stanford,2001,False
+16,UNC Greensboro,2001,False
+8,Georgia Tech,2001,False
+9,St. Joseph's,2001,False
+5,Cincinnati,2001,False
+12,BYU,2001,False
+4,Indiana,2001,False
+13,Kent State,2001,False
+6,Wisconsin,2001,False
+11,Georgia State,2001,False
+3,Maryland,2001,False
+14,George Mason,2001,False
+7,Arkansas,2001,False
+10,Georgetown,2001,False
+2,Iowa State,2001,False
+15,Hampton,2001,False
+1,Maryland,2002,True
+16,Siena,2002,False
+8,Wisconsin,2002,False
+9,St. John's (NY),2002,False
+5,Marquette,2002,False
+12,Tulsa,2002,False
+4,Kentucky,2002,False
+13,Valparaiso,2002,False
+6,Texas Tech,2002,False
+11,Southern Illinois,2002,False
+3,Georgia,2002,False
+14,Murray State,2002,False
+7,NC State,2002,False
+10,Michigan State,2002,False
+2,UConn,2002,False
+15,Hampton,2002,False
+1,Kansas,2002,False
+16,Holy Cross,2002,False
+8,Stanford,2002,False
+9,Western Kentucky,2002,False
+5,Florida,2002,False
+12,Creighton,2002,False
+4,Illinois,2002,False
+13,San Diego State,2002,False
+6,Texas,2002,False
+11,Boston College,2002,False
+3,Mississippi State,2002,False
+14,McNeese State,2002,False
+7,Wake Forest,2002,False
+10,Pepperdine,2002,False
+2,Oregon,2002,False
+15,Montana,2002,False
+1,Duke,2002,False
+16,Winthrop,2002,False
+8,Notre Dame,2002,False
+9,Charlotte,2002,False
+5,Indiana,2002,False
+12,Utah,2002,False
+4,USC,2002,False
+13,UNC Wilmington,2002,False
+6,California,2002,False
+11,Penn,2002,False
+3,Pitt,2002,False
+14,Central Connecticut,2002,False
+7,Oklahoma State,2002,False
+10,Kent State,2002,False
+2,Alabama,2002,False
+15,Florida Atlantic,2002,False
+1,Cincinnati,2002,False
+16,Boston University,2002,False
+8,UCLA,2002,False
+9,Ole Miss,2002,False
+5,Miami (FL),2002,False
+12,Missouri,2002,False
+4,Ohio State,2002,False
+13,Davidson,2002,False
+6,Gonzaga,2002,False
+11,Wyoming,2002,False
+3,Arizona,2002,False
+14,UCSB,2002,False
+7,Xavier,2002,False
+10,Hawaii,2002,False
+2,Oklahoma,2002,False
+15,UIC,2002,False
+1,Oklahoma,2003,False
+16,South Carolina State,2003,False
+8,California,2003,False
+9,NC State,2003,False
+5,Mississippi State,2003,False
+12,Butler,2003,False
+4,Louisville,2003,False
+13,Austin Peay,2003,False
+6,Oklahoma State,2003,False
+11,Penn,2003,False
+3,Syracuse,2003,True
+14,Manhattan,2003,False
+7,St. Joseph's,2003,False
+10,Auburn,2003,False
+2,Wake Forest,2003,False
+15,ETSU,2003,False
+1,Kentucky,2003,False
+16,IU Indianapolis,2003,False
+8,Oregon,2003,False
+9,Utah,2003,False
+5,Wisconsin,2003,False
+12,Weber State,2003,False
+4,Dayton,2003,False
+13,Tulsa,2003,False
+6,Missouri,2003,False
+11,Southern Illinois,2003,False
+3,Marquette,2003,False
+14,Holy Cross,2003,False
+7,Indiana,2003,False
+10,Alabama,2003,False
+2,Pitt,2003,False
+15,Wagner,2003,False
+1,Texas,2003,False
+16,UNC Asheville,2003,False
+8,LSU,2003,False
+9,Purdue,2003,False
+5,UConn,2003,False
+12,BYU,2003,False
+4,Stanford,2003,False
+13,San Diego,2003,False
+6,Maryland,2003,False
+11,UNC Wilmington,2003,False
+3,Xavier,2003,False
+14,Troy,2003,False
+7,Michigan State,2003,False
+10,Colorado,2003,False
+2,Florida,2003,False
+15,Sam Houston,2003,False
+1,Arizona,2003,False
+16,Vermont,2003,False
+8,Cincinnati,2003,False
+9,Gonzaga,2003,False
+5,Notre Dame,2003,False
+12,Milwaukee,2003,False
+4,Illinois,2003,False
+13,Western Kentucky,2003,False
+6,Creighton,2003,False
+11,Central Michigan,2003,False
+3,Duke,2003,False
+14,Colorado State,2003,False
+7,Memphis,2003,False
+10,Arizona State,2003,False
+2,Kansas,2003,False
+15,Utah State,2003,False
+1,Duke,2004,False
+16,Alabama State,2004,False
+8,Seton Hall,2004,False
+9,Arizona,2004,False
+5,Illinois,2004,False
+12,Murray State,2004,False
+4,Cincinnati,2004,False
+13,ETSU,2004,False
+6,UNC,2004,False
+11,Air Force,2004,False
+3,Texas,2004,False
+14,Princeton,2004,False
+7,Xavier,2004,False
+10,Louisville,2004,False
+2,Mississippi State,2004,False
+15,Monmouth,2004,False
+1,St. Joseph's,2004,False
+16,Liberty,2004,False
+8,Texas Tech,2004,False
+9,Charlotte,2004,False
+5,Florida,2004,False
+12,Manhattan,2004,False
+4,Wake Forest,2004,False
+13,VCU,2004,False
+6,Wisconsin,2004,False
+11,Richmond,2004,False
+3,Pitt,2004,False
+14,UCF,2004,False
+7,Memphis,2004,False
+10,South Carolina,2004,False
+2,Oklahoma State,2004,False
+15,Eastern Washington,2004,False
+1,Stanford,2004,False
+16,UTSA,2004,False
+8,Alabama,2004,False
+9,Southern Illinois,2004,False
+5,Syracuse,2004,False
+12,BYU,2004,False
+4,Maryland,2004,False
+13,UTEP,2004,False
+6,Vanderbilt,2004,False
+11,Western Michigan,2004,False
+3,NC State,2004,False
+14,Louisiana,2004,False
+7,DePaul,2004,False
+10,Dayton,2004,False
+2,UConn,2004,True
+15,Vermont,2004,False
+1,Kentucky,2004,False
+16,Florida A&M,2004,False
+8,Washington,2004,False
+9,UAB,2004,False
+5,Providence,2004,False
+12,Pacific,2004,False
+4,Kansas,2004,False
+13,UIC,2004,False
+6,Boston College,2004,False
+11,Utah,2004,False
+3,Georgia Tech,2004,False
+14,Northern Iowa,2004,False
+7,Michigan State,2004,False
+10,Nevada,2004,False
+2,Gonzaga,2004,False
+15,Valparaiso,2004,False
+1,Washington,2005,False
+16,Montana,2005,False
+8,Pacific,2005,False
+9,Pitt,2005,False
+5,Georgia Tech,2005,False
+12,George Washington,2005,False
+4,Louisville,2005,False
+13,Louisiana,2005,False
+6,Texas Tech,2005,False
+11,UCLA,2005,False
+3,Gonzaga,2005,False
+14,Winthrop,2005,False
+7,West Virginia,2005,False
+10,Creighton,2005,False
+2,Wake Forest,2005,False
+15,Chattanooga,2005,False
+1,Duke,2005,False
+16,Delaware State,2005,False
+8,Stanford,2005,False
+9,Mississippi State,2005,False
+5,Michigan State,2005,False
+12,Old Dominion,2005,False
+4,Syracuse,2005,False
+13,Vermont,2005,False
+6,Utah,2005,False
+11,UTEP,2005,False
+3,Oklahoma,2005,False
+14,Niagara,2005,False
+7,Cincinnati,2005,False
+10,Iowa,2005,False
+2,Kentucky,2005,False
+15,Eastern Kentucky,2005,False
+1,Illinois,2005,False
+16,FDU,2005,False
+8,Texas,2005,False
+9,Nevada,2005,False
+5,Alabama,2005,False
+12,Milwaukee,2005,False
+4,Boston College,2005,False
+13,Penn,2005,False
+6,LSU,2005,False
+11,UAB,2005,False
+3,Arizona,2005,False
+14,Utah State,2005,False
+7,Southern Illinois,2005,False
+10,Saint Mary's,2005,False
+2,Oklahoma State,2005,False
+15,Southeastern Louisiana,2005,False
+1,UNC,2005,True
+16,Oakland,2005,False
+8,Minnesota,2005,False
+9,Iowa State,2005,False
+5,Villanova,2005,False
+12,New Mexico,2005,False
+4,Florida,2005,False
+13,Ohio,2005,False
+6,Wisconsin,2005,False
+11,Northern Iowa,2005,False
+3,Kansas,2005,False
+14,Bucknell,2005,False
+7,Charlotte,2005,False
+10,NC State,2005,False
+2,UConn,2005,False
+15,UCF,2005,False
+1,Duke,2006,False
+16,Southern,2006,False
+8,George Washington,2006,False
+9,UNC Wilmington,2006,False
+5,Syracuse,2006,False
+12,Texas A&M,2006,False
+4,LSU,2006,False
+13,Iona,2006,False
+6,West Virginia,2006,False
+11,Southern Illinois,2006,False
+3,Iowa,2006,False
+14,Northwestern State,2006,False
+7,California,2006,False
+10,NC State,2006,False
+2,Texas,2006,False
+15,Penn,2006,False
+1,Villanova,2006,False
+16,Monmouth,2006,False
+8,Arizona,2006,False
+9,Wisconsin,2006,False
+5,Nevada,2006,False
+12,Montana,2006,False
+4,Boston College,2006,False
+13,Pacific,2006,False
+6,Oklahoma,2006,False
+11,Milwaukee,2006,False
+3,Florida,2006,True
+14,South Alabama,2006,False
+7,Georgetown,2006,False
+10,Northern Iowa,2006,False
+2,Ohio State,2006,False
+15,Davidson,2006,False
+1,Memphis,2006,False
+16,Oral Roberts,2006,False
+8,Arkansas,2006,False
+9,Bucknell,2006,False
+5,Pitt,2006,False
+12,Kent State,2006,False
+4,Kansas,2006,False
+13,Bradley,2006,False
+6,Indiana,2006,False
+11,San Diego State,2006,False
+3,Gonzaga,2006,False
+14,Xavier,2006,False
+7,Marquette,2006,False
+10,Alabama,2006,False
+2,UCLA,2006,False
+15,Belmont,2006,False
+1,UConn,2006,False
+16,Albany (NY),2006,False
+8,Kentucky,2006,False
+9,UAB,2006,False
+5,Washington,2006,False
+12,Utah State,2006,False
+4,Illinois,2006,False
+13,Air Force,2006,False
+6,Michigan State,2006,False
+11,George Mason,2006,False
+3,UNC,2006,False
+14,Murray State,2006,False
+7,Wichita State,2006,False
+10,Seton Hall,2006,False
+2,Tennessee,2006,False
+15,Winthrop,2006,False
+1,UNC,2007,False
+16,Eastern Kentucky,2007,False
+8,Marquette,2007,False
+9,Michigan State,2007,False
+5,USC,2007,False
+12,Arkansas,2007,False
+4,Texas,2007,False
+13,New Mexico State,2007,False
+6,Vanderbilt,2007,False
+11,George Washington,2007,False
+3,Washington State,2007,False
+14,Oral Roberts,2007,False
+7,Boston College,2007,False
+10,Texas Tech,2007,False
+2,Georgetown,2007,False
+15,Belmont,2007,False
+1,Florida,2007,True
+16,Jackson State,2007,False
+8,Arizona,2007,False
+9,Purdue,2007,False
+5,Butler,2007,False
+12,Old Dominion,2007,False
+4,Maryland,2007,False
+13,Davidson,2007,False
+6,Notre Dame,2007,False
+11,Winthrop,2007,False
+3,Oregon,2007,False
+14,Miami (OH),2007,False
+7,UNLV,2007,False
+10,Georgia Tech,2007,False
+2,Wisconsin,2007,False
+15,Texas A&M-Corpus Christi,2007,False
+1,Ohio State,2007,False
+16,Central Connecticut,2007,False
+8,BYU,2007,False
+9,Xavier,2007,False
+5,Tennessee,2007,False
+12,Long Beach State,2007,False
+4,Virginia,2007,False
+13,Albany (NY),2007,False
+6,Louisville,2007,False
+11,Stanford,2007,False
+3,Texas A&M,2007,False
+14,Penn,2007,False
+7,Nevada,2007,False
+10,Creighton,2007,False
+2,Memphis,2007,False
+15,North Texas,2007,False
+1,Kansas,2007,False
+16,Niagara,2007,False
+8,Kentucky,2007,False
+9,Villanova,2007,False
+5,Virginia Tech,2007,False
+12,Illinois,2007,False
+4,Southern Illinois,2007,False
+13,Holy Cross,2007,False
+6,Duke,2007,False
+11,VCU,2007,False
+3,Pitt,2007,False
+14,Wright State,2007,False
+7,Indiana,2007,False
+10,Gonzaga,2007,False
+2,UCLA,2007,False
+15,Weber State,2007,False
+1,UNC,2008,False
+16,Mount St. Mary's,2008,False
+8,Indiana,2008,False
+9,Arkansas,2008,False
+5,Notre Dame,2008,False
+12,George Mason,2008,False
+4,Washington State,2008,False
+13,Winthrop,2008,False
+6,Oklahoma,2008,False
+11,St. Joseph's,2008,False
+3,Louisville,2008,False
+14,Boise State,2008,False
+7,Butler,2008,False
+10,South Alabama,2008,False
+2,Tennessee,2008,False
+15,American,2008,False
+1,Kansas,2008,True
+16,Portland State,2008,False
+8,UNLV,2008,False
+9,Kent State,2008,False
+5,Clemson,2008,False
+12,Villanova,2008,False
+4,Vanderbilt,2008,False
+13,Siena,2008,False
+6,USC,2008,False
+11,Kansas State,2008,False
+3,Wisconsin,2008,False
+14,Cal State Fullerton,2008,False
+7,Gonzaga,2008,False
+10,Davidson,2008,False
+2,Georgetown,2008,False
+15,UMBC,2008,False
+1,Memphis,2008,False
+16,UT Arlington,2008,False
+8,Mississippi State,2008,False
+9,Oregon,2008,False
+5,Michigan State,2008,False
+12,Temple,2008,False
+4,Pitt,2008,False
+13,Oral Roberts,2008,False
+6,Marquette,2008,False
+11,Kentucky,2008,False
+3,Stanford,2008,False
+14,Cornell,2008,False
+7,Miami (FL),2008,False
+10,Saint Mary's,2008,False
+2,Texas,2008,False
+15,Austin Peay,2008,False
+1,UCLA,2008,False
+16,Mississippi Valley State,2008,False
+8,BYU,2008,False
+9,Texas A&M,2008,False
+5,Drake,2008,False
+12,Western Kentucky,2008,False
+4,UConn,2008,False
+13,San Diego,2008,False
+6,Purdue,2008,False
+11,Baylor,2008,False
+3,Xavier,2008,False
+14,Georgia,2008,False
+7,West Virginia,2008,False
+10,Arizona,2008,False
+2,Duke,2008,False
+15,Belmont,2008,False
+1,Pitt,2009,False
+16,ETSU,2009,False
+8,Oklahoma State,2009,False
+9,Tennessee,2009,False
+5,Florida State,2009,False
+12,Wisconsin,2009,False
+4,Xavier,2009,False
+13,Portland State,2009,False
+6,UCLA,2009,False
+11,VCU,2009,False
+3,Villanova,2009,False
+14,American,2009,False
+7,Texas,2009,False
+10,Minnesota,2009,False
+2,Duke,2009,False
+15,Binghamton,2009,False
+1,Louisville,2009,False
+16,Morehead State,2009,False
+8,Ohio State,2009,False
+9,Siena,2009,False
+5,Utah,2009,False
+12,Arizona,2009,False
+4,Wake Forest,2009,False
+13,Cleveland State,2009,False
+6,West Virginia,2009,False
+11,Dayton,2009,False
+3,Kansas,2009,False
+14,North Dakota State,2009,False
+7,Boston College,2009,False
+10,USC,2009,False
+2,Michigan State,2009,False
+15,Robert Morris,2009,False
+1,UNC,2009,True
+16,Radford,2009,False
+8,LSU,2009,False
+9,Butler,2009,False
+5,Illinois,2009,False
+12,Western Kentucky,2009,False
+4,Gonzaga,2009,False
+13,Akron,2009,False
+6,Arizona State,2009,False
+11,Temple,2009,False
+3,Syracuse,2009,False
+14,Stephen F. Austin,2009,False
+7,Clemson,2009,False
+10,Michigan,2009,False
+2,Oklahoma,2009,False
+15,Morgan State,2009,False
+1,UConn,2009,False
+16,Chattanooga,2009,False
+8,BYU,2009,False
+9,Texas A&M,2009,False
+5,Purdue,2009,False
+12,Northern Iowa,2009,False
+4,Washington,2009,False
+13,Mississippi State,2009,False
+6,Marquette,2009,False
+11,Utah State,2009,False
+3,Missouri,2009,False
+14,Cornell,2009,False
+7,California,2009,False
+10,Maryland,2009,False
+2,Memphis,2009,False
+15,Cal State Northridge,2009,False
+1,Kentucky,2010,False
+16,ETSU,2010,False
+8,Texas,2010,False
+9,Wake Forest,2010,False
+5,Temple,2010,False
+12,Cornell,2010,False
+4,Wisconsin,2010,False
+13,Wofford,2010,False
+6,Marquette,2010,False
+11,Washington,2010,False
+3,New Mexico,2010,False
+14,Montana,2010,False
+7,Clemson,2010,False
+10,Missouri,2010,False
+2,West Virginia,2010,False
+15,Morgan State,2010,False
+1,Kansas,2010,False
+16,Lehigh,2010,False
+8,UNLV,2010,False
+9,Northern Iowa,2010,False
+5,Michigan State,2010,False
+12,New Mexico State,2010,False
+4,Maryland,2010,False
+13,Houston,2010,False
+6,Tennessee,2010,False
+11,San Diego State,2010,False
+3,Georgetown,2010,False
+14,Ohio,2010,False
+7,Oklahoma State,2010,False
+10,Georgia Tech,2010,False
+2,Ohio State,2010,False
+15,UCSB,2010,False
+1,Duke,2010,True
+16,Arkansas-Pine Bluff,2010,False
+8,California,2010,False
+9,Louisville,2010,False
+5,Texas A&M,2010,False
+12,Utah State,2010,False
+4,Purdue,2010,False
+13,Siena,2010,False
+6,Notre Dame,2010,False
+11,Old Dominion,2010,False
+3,Baylor,2010,False
+14,Sam Houston,2010,False
+7,Richmond,2010,False
+10,Saint Mary's,2010,False
+2,Villanova,2010,False
+15,Robert Morris,2010,False
+1,Syracuse,2010,False
+16,Vermont,2010,False
+8,Gonzaga,2010,False
+9,Florida State,2010,False
+5,Butler,2010,False
+12,UTEP,2010,False
+4,Vanderbilt,2010,False
+13,Murray State,2010,False
+6,Xavier,2010,False
+11,Minnesota,2010,False
+3,Pitt,2010,False
+14,Oakland,2010,False
+7,BYU,2010,False
+10,Florida,2010,False
+2,Kansas State,2010,False
+15,North Texas,2010,False
+1,Ohio State,2011,False
+16,UTSA,2011,False
+8,George Mason,2011,False
+9,Villanova,2011,False
+5,West Virginia,2011,False
+12,Clemson,2011,False
+4,Kentucky,2011,False
+13,Princeton,2011,False
+6,Xavier,2011,False
+11,Marquette,2011,False
+3,Syracuse,2011,False
+14,Indiana State,2011,False
+7,Washington,2011,False
+10,Georgia,2011,False
+2,UNC,2011,False
+15,LIU,2011,False
+1,Pitt,2011,False
+16,UNC Asheville,2011,False
+8,Butler,2011,False
+9,Old Dominion,2011,False
+5,Kansas State,2011,False
+12,Utah State,2011,False
+4,Wisconsin,2011,False
+13,Belmont,2011,False
+6,St. John's (NY),2011,False
+11,Gonzaga,2011,False
+3,BYU,2011,False
+14,Wofford,2011,False
+7,UCLA,2011,False
+10,Michigan State,2011,False
+2,Florida,2011,False
+15,UCSB,2011,False
+1,Kansas,2011,False
+16,Boston University,2011,False
+8,UNLV,2011,False
+9,Illinois,2011,False
+5,Vanderbilt,2011,False
+12,Richmond,2011,False
+4,Louisville,2011,False
+13,Morehead State,2011,False
+6,Georgetown,2011,False
+11,VCU,2011,False
+3,Purdue,2011,False
+14,St. Peter's,2011,False
+7,Texas A&M,2011,False
+10,Florida State,2011,False
+2,Notre Dame,2011,False
+15,Akron,2011,False
+1,Duke,2011,False
+16,Hampton,2011,False
+8,Michigan,2011,False
+9,Tennessee,2011,False
+5,Arizona,2011,False
+12,Memphis,2011,False
+4,Texas,2011,False
+13,Oakland,2011,False
+6,Cincinnati,2011,False
+11,Missouri,2011,False
+3,UConn,2011,True
+14,Bucknell,2011,False
+7,Temple,2011,False
+10,Penn State,2011,False
+2,San Diego State,2011,False
+15,Northern Colorado,2011,False
+1,Syracuse,2012,False
+16,UNC Asheville,2012,False
+8,Kansas State,2012,False
+9,Southern Miss,2012,False
+5,Vanderbilt,2012,False
+12,Harvard,2012,False
+4,Wisconsin,2012,False
+13,Montana,2012,False
+6,Cincinnati,2012,False
+11,Texas,2012,False
+3,Florida State,2012,False
+14,St. Bonaventure,2012,False
+7,Gonzaga,2012,False
+10,West Virginia,2012,False
+2,Ohio State,2012,False
+15,Loyola (MD),2012,False
+1,UNC,2012,False
+16,Vermont,2012,False
+8,Creighton,2012,False
+9,Alabama,2012,False
+5,Temple,2012,False
+12,South Florida,2012,False
+4,Michigan,2012,False
+13,Ohio,2012,False
+6,San Diego State,2012,False
+11,NC State,2012,False
+3,Georgetown,2012,False
+14,Belmont,2012,False
+7,Saint Mary's,2012,False
+10,Purdue,2012,False
+2,Kansas,2012,False
+15,Detroit Mercy,2012,False
+1,Kentucky,2012,True
+16,Western Kentucky,2012,False
+8,Iowa State,2012,False
+9,UConn,2012,False
+5,Wichita State,2012,False
+12,VCU,2012,False
+4,Indiana,2012,False
+13,New Mexico State,2012,False
+6,UNLV,2012,False
+11,Colorado,2012,False
+3,Baylor,2012,False
+14,South Dakota State,2012,False
+7,Notre Dame,2012,False
+10,Xavier,2012,False
+2,Duke,2012,False
+15,Lehigh,2012,False
+1,Michigan State,2012,False
+16,LIU,2012,False
+8,Memphis,2012,False
+9,Saint Louis,2012,False
+5,New Mexico,2012,False
+12,Long Beach State,2012,False
+4,Louisville,2012,False
+13,Davidson,2012,False
+6,Murray State,2012,False
+11,Colorado State,2012,False
+3,Marquette,2012,False
+14,BYU,2012,False
+7,Florida,2012,False
+10,Virginia,2012,False
+2,Missouri,2012,False
+15,Norfolk State,2012,False
+1,Indiana,2013,False
+16,James Madison,2013,False
+8,NC State,2013,False
+9,Temple,2013,False
+5,UNLV,2013,False
+12,California,2013,False
+4,Syracuse,2013,False
+13,Montana,2013,False
+6,Butler,2013,False
+11,Bucknell,2013,False
+3,Marquette,2013,False
+14,Davidson,2013,False
+7,Illinois,2013,False
+10,Colorado,2013,False
+2,Miami (FL),2013,False
+15,Pacific,2013,False
+1,Louisville,2013,True
+16,North Carolina A&T,2013,False
+8,Colorado State,2013,False
+9,Missouri,2013,False
+5,Oklahoma State,2013,False
+12,Oregon,2013,False
+4,Saint Louis,2013,False
+13,New Mexico State,2013,False
+6,Memphis,2013,False
+11,Saint Mary's,2013,False
+3,Michigan State,2013,False
+14,Valparaiso,2013,False
+7,Creighton,2013,False
+10,Cincinnati,2013,False
+2,Duke,2013,False
+15,Albany (NY),2013,False
+1,Kansas,2013,False
+16,Western Kentucky,2013,False
+8,UNC,2013,False
+9,Villanova,2013,False
+5,VCU,2013,False
+12,Akron,2013,False
+4,Michigan,2013,False
+13,South Dakota State,2013,False
+6,UCLA,2013,False
+11,Minnesota,2013,False
+3,Florida,2013,False
+14,Northwestern State,2013,False
+7,San Diego State,2013,False
+10,Oklahoma,2013,False
+2,Georgetown,2013,False
+15,Florida Gulf Coast,2013,False
+1,Gonzaga,2013,False
+16,Southern,2013,False
+8,Pitt,2013,False
+9,Wichita State,2013,False
+5,Wisconsin,2013,False
+12,Ole Miss,2013,False
+4,Kansas State,2013,False
+13,La Salle,2013,False
+6,Arizona,2013,False
+11,Belmont,2013,False
+3,New Mexico,2013,False
+14,Harvard,2013,False
+7,Notre Dame,2013,False
+10,Iowa State,2013,False
+2,Ohio State,2013,False
+15,Iona,2013,False
+1,Virginia,2014,False
+16,Coastal Carolina,2014,False
+8,Memphis,2014,False
+9,George Washington,2014,False
+5,Cincinnati,2014,False
+12,Harvard,2014,False
+4,Michigan State,2014,False
+13,Delaware,2014,False
+6,UNC,2014,False
+11,Providence,2014,False
+3,Iowa State,2014,False
+14,North Carolina Central,2014,False
+7,UConn,2014,True
+10,St. Joseph's,2014,False
+2,Villanova,2014,False
+15,Milwaukee,2014,False
+1,Wichita State,2014,False
+16,Cal Poly,2014,False
+8,Kentucky,2014,False
+9,Kansas State,2014,False
+5,Saint Louis,2014,False
+12,NC State,2014,False
+4,Louisville,2014,False
+13,Manhattan,2014,False
+6,UMass,2014,False
+11,Tennessee,2014,False
+3,Duke,2014,False
+14,Mercer,2014,False
+7,Texas,2014,False
+10,Arizona State,2014,False
+2,Michigan,2014,False
+15,Wofford,2014,False
+1,Florida,2014,False
+16,Albany (NY),2014,False
+8,Colorado,2014,False
+9,Pitt,2014,False
+5,VCU,2014,False
+12,Stephen F. Austin,2014,False
+4,UCLA,2014,False
+13,Tulsa,2014,False
+6,Ohio State,2014,False
+11,Dayton,2014,False
+3,Syracuse,2014,False
+14,Western Michigan,2014,False
+7,New Mexico,2014,False
+10,Stanford,2014,False
+2,Kansas,2014,False
+15,Eastern Kentucky,2014,False
+1,Arizona,2014,False
+16,Weber State,2014,False
+8,Gonzaga,2014,False
+9,Oklahoma State,2014,False
+5,Oklahoma,2014,False
+12,North Dakota State,2014,False
+4,San Diego State,2014,False
+13,New Mexico State,2014,False
+6,Baylor,2014,False
+11,Nebraska,2014,False
+3,Creighton,2014,False
+14,Louisiana,2014,False
+7,Oregon,2014,False
+10,BYU,2014,False
+2,Wisconsin,2014,False
+15,American,2014,False
+1,Villanova,2015,False
+16,Lafayette,2015,False
+8,NC State,2015,False
+9,LSU,2015,False
+5,Northern Iowa,2015,False
+12,Wyoming,2015,False
+4,Louisville,2015,False
+13,UC-Irvine,2015,False
+6,Providence,2015,False
+11,Dayton,2015,False
+3,Oklahoma,2015,False
+14,Albany (NY),2015,False
+7,Michigan State,2015,False
+10,Georgia,2015,False
+2,Virginia,2015,False
+15,Belmont,2015,False
+1,Kentucky,2015,False
+16,Hampton,2015,False
+8,Cincinnati,2015,False
+9,Purdue,2015,False
+5,West Virginia,2015,False
+12,Buffalo,2015,False
+4,Maryland,2015,False
+13,Valparaiso,2015,False
+6,Butler,2015,False
+11,Texas,2015,False
+3,Notre Dame,2015,False
+14,Northeastern,2015,False
+7,Wichita State,2015,False
+10,Indiana,2015,False
+2,Kansas,2015,False
+15,New Mexico State,2015,False
+1,Duke,2015,True
+16,Robert Morris,2015,False
+8,San Diego State,2015,False
+9,St. John's (NY),2015,False
+5,Utah,2015,False
+12,Stephen F. Austin,2015,False
+4,Georgetown,2015,False
+13,Eastern Washington,2015,False
+6,SMU,2015,False
+11,UCLA,2015,False
+3,Iowa State,2015,False
+14,UAB,2015,False
+7,Iowa,2015,False
+10,Davidson,2015,False
+2,Gonzaga,2015,False
+15,North Dakota State,2015,False
+1,Wisconsin,2015,False
+16,Coastal Carolina,2015,False
+8,Oregon,2015,False
+9,Oklahoma State,2015,False
+5,Arkansas,2015,False
+12,Wofford,2015,False
+4,UNC,2015,False
+13,Harvard,2015,False
+6,Xavier,2015,False
+11,Ole Miss,2015,False
+3,Baylor,2015,False
+14,Georgia State,2015,False
+7,VCU,2015,False
+10,Ohio State,2015,False
+2,Arizona,2015,False
+15,Texas Southern,2015,False
+1,UNC,2016,False
+16,Florida Gulf Coast,2016,False
+8,USC,2016,False
+9,Providence,2016,False
+5,Indiana,2016,False
+12,Chattanooga,2016,False
+4,Kentucky,2016,False
+13,Stony Brook,2016,False
+6,Notre Dame,2016,False
+11,Michigan,2016,False
+3,West Virginia,2016,False
+14,Stephen F. Austin,2016,False
+7,Wisconsin,2016,False
+10,Pitt,2016,False
+2,Xavier,2016,False
+15,Weber State,2016,False
+1,Virginia,2016,False
+16,Hampton,2016,False
+8,Texas Tech,2016,False
+9,Butler,2016,False
+5,Purdue,2016,False
+12,Little Rock,2016,False
+4,Iowa State,2016,False
+13,Iona,2016,False
+6,Seton Hall,2016,False
+11,Gonzaga,2016,False
+3,Utah,2016,False
+14,Fresno State,2016,False
+7,Dayton,2016,False
+10,Syracuse,2016,False
+2,Michigan State,2016,False
+15,Middle Tennessee,2016,False
+1,Kansas,2016,False
+16,Austin Peay,2016,False
+8,Colorado,2016,False
+9,UConn,2016,False
+5,Maryland,2016,False
+12,South Dakota State,2016,False
+4,California,2016,False
+13,Hawaii,2016,False
+6,Arizona,2016,False
+11,Wichita State,2016,False
+3,Miami (FL),2016,False
+14,Buffalo,2016,False
+7,Iowa,2016,False
+10,Temple,2016,False
+2,Villanova,2016,True
+15,UNC Asheville,2016,False
+1,Oregon,2016,False
+16,Holy Cross,2016,False
+8,St. Joseph's,2016,False
+9,Cincinnati,2016,False
+5,Baylor,2016,False
+12,Yale,2016,False
+4,Duke,2016,False
+13,UNC Wilmington,2016,False
+6,Texas,2016,False
+11,Northern Iowa,2016,False
+3,Texas A&M,2016,False
+14,Green Bay,2016,False
+7,Oregon State,2016,False
+10,VCU,2016,False
+2,Oklahoma,2016,False
+15,Cal State Bakersfield,2016,False
+1,Villanova,2017,False
+16,Mount St. Mary's,2017,False
+8,Wisconsin,2017,False
+9,Virginia Tech,2017,False
+5,Virginia,2017,False
+12,UNC Wilmington,2017,False
+4,Florida,2017,False
+13,ETSU,2017,False
+6,SMU,2017,False
+11,USC,2017,False
+3,Baylor,2017,False
+14,New Mexico State,2017,False
+7,South Carolina,2017,False
+10,Marquette,2017,False
+2,Duke,2017,False
+15,Troy,2017,False
+1,Kansas,2017,False
+16,UC-Davis,2017,False
+8,Miami (FL),2017,False
+9,Michigan State,2017,False
+5,Iowa State,2017,False
+12,Nevada,2017,False
+4,Purdue,2017,False
+13,Vermont,2017,False
+6,Creighton,2017,False
+11,Rhode Island,2017,False
+3,Oregon,2017,False
+14,Iona,2017,False
+7,Michigan,2017,False
+10,Oklahoma State,2017,False
+2,Louisville,2017,False
+15,Jacksonville State,2017,False
+1,UNC,2017,True
+16,Texas Southern,2017,False
+8,Arkansas,2017,False
+9,Seton Hall,2017,False
+5,Minnesota,2017,False
+12,Middle Tennessee,2017,False
+4,Butler,2017,False
+13,Winthrop,2017,False
+6,Cincinnati,2017,False
+11,Kansas State,2017,False
+3,UCLA,2017,False
+14,Kent State,2017,False
+7,Dayton,2017,False
+10,Wichita State,2017,False
+2,Kentucky,2017,False
+15,Northern Kentucky,2017,False
+1,Gonzaga,2017,False
+16,South Dakota State,2017,False
+8,Northwestern,2017,False
+9,Vanderbilt,2017,False
+5,Notre Dame,2017,False
+12,Princeton,2017,False
+4,West Virginia,2017,False
+13,Bucknell,2017,False
+6,Maryland,2017,False
+11,Xavier,2017,False
+3,Florida State,2017,False
+14,Florida Gulf Coast,2017,False
+7,Saint Mary's,2017,False
+10,VCU,2017,False
+2,Arizona,2017,False
+15,North Dakota,2017,False
+1,Villanova,2018,True
+16,Radford,2018,False
+8,Virginia Tech,2018,False
+9,Alabama,2018,False
+5,West Virginia,2018,False
+12,Murray State,2018,False
+4,Wichita State,2018,False
+13,Marshall,2018,False
+6,Florida,2018,False
+11,St. Bonaventure,2018,False
+3,Texas Tech,2018,False
+14,Stephen F. Austin,2018,False
+7,Arkansas,2018,False
+10,Butler,2018,False
+2,Purdue,2018,False
+15,Cal State Fullerton,2018,False
+1,Kansas,2018,False
+16,Penn,2018,False
+8,Seton Hall,2018,False
+9,NC State,2018,False
+5,Clemson,2018,False
+12,New Mexico State,2018,False
+4,Auburn,2018,False
+13,College of Charleston,2018,False
+6,TCU,2018,False
+11,Syracuse,2018,False
+3,Michigan State,2018,False
+14,Bucknell,2018,False
+7,Rhode Island,2018,False
+10,Oklahoma,2018,False
+2,Duke,2018,False
+15,Iona,2018,False
+1,Virginia,2018,False
+16,UMBC,2018,False
+8,Creighton,2018,False
+9,Kansas State,2018,False
+5,Kentucky,2018,False
+12,Davidson,2018,False
+4,Arizona,2018,False
+13,Buffalo,2018,False
+6,Miami (FL),2018,False
+11,Loyola (IL),2018,False
+3,Tennessee,2018,False
+14,Wright State,2018,False
+7,Nevada,2018,False
+10,Texas,2018,False
+2,Cincinnati,2018,False
+15,Georgia State,2018,False
+1,Xavier,2018,False
+16,Texas Southern,2018,False
+8,Missouri,2018,False
+9,Florida State,2018,False
+5,Ohio State,2018,False
+12,South Dakota State,2018,False
+4,Gonzaga,2018,False
+13,UNC Greensboro,2018,False
+6,Houston,2018,False
+11,San Diego State,2018,False
+3,Michigan,2018,False
+14,Montana,2018,False
+7,Texas A&M,2018,False
+10,Providence,2018,False
+2,UNC,2018,False
+15,Lipscomb,2018,False
+1,Duke,2019,False
+16,North Dakota State,2019,False
+8,VCU,2019,False
+9,UCF,2019,False
+5,Mississippi State,2019,False
+12,Liberty,2019,False
+4,Virginia Tech,2019,False
+13,Saint Louis,2019,False
+6,Maryland,2019,False
+11,Belmont,2019,False
+3,LSU,2019,False
+14,Yale,2019,False
+7,Louisville,2019,False
+10,Minnesota,2019,False
+2,Michigan State,2019,False
+15,Bradley,2019,False
+1,UNC,2019,False
+16,Iona,2019,False
+8,Utah State,2019,False
+9,Washington,2019,False
+5,Auburn,2019,False
+12,New Mexico State,2019,False
+4,Kansas,2019,False
+13,Northeastern,2019,False
+6,Iowa State,2019,False
+11,Ohio State,2019,False
+3,Houston,2019,False
+14,Georgia State,2019,False
+7,Wofford,2019,False
+10,Seton Hall,2019,False
+2,Kentucky,2019,False
+15,Abilene Christian,2019,False
+1,Virginia,2019,True
+16,Gardner-Webb,2019,False
+8,Ole Miss,2019,False
+9,Oklahoma,2019,False
+5,Wisconsin,2019,False
+12,Oregon,2019,False
+4,Kansas State,2019,False
+13,UC-Irvine,2019,False
+6,Villanova,2019,False
+11,Saint Mary's,2019,False
+3,Purdue,2019,False
+14,Old Dominion,2019,False
+7,Cincinnati,2019,False
+10,Iowa,2019,False
+2,Tennessee,2019,False
+15,Colgate,2019,False
+1,Gonzaga,2019,False
+16,FDU,2019,False
+8,Syracuse,2019,False
+9,Baylor,2019,False
+5,Marquette,2019,False
+12,Murray State,2019,False
+4,Florida State,2019,False
+13,Vermont,2019,False
+6,Buffalo,2019,False
+11,Arizona State,2019,False
+3,Texas Tech,2019,False
+14,Northern Kentucky,2019,False
+7,Nevada,2019,False
+10,Florida,2019,False
+2,Michigan,2019,False
+15,Montana,2019,False
+1,Michigan,2021,False
+16,Texas Southern,2021,False
+8,LSU,2021,False
+9,St. Bonaventure,2021,False
+5,Colorado,2021,False
+12,Georgetown,2021,False
+4,Florida State,2021,False
+13,UNC Greensboro,2021,False
+6,BYU,2021,False
+11,UCLA,2021,False
+3,Texas,2021,False
+14,Abilene Christian,2021,False
+7,UConn,2021,False
+10,Maryland,2021,False
+2,Alabama,2021,False
+15,Iona,2021,False
+1,Illinois,2021,False
+16,Drexel,2021,False
+8,Loyola (IL),2021,False
+9,Georgia Tech,2021,False
+5,Tennessee,2021,False
+12,Oregon State,2021,False
+4,Oklahoma State,2021,False
+13,Liberty,2021,False
+6,San Diego State,2021,False
+11,Syracuse,2021,False
+3,West Virginia,2021,False
+14,Morehead State,2021,False
+7,Clemson,2021,False
+10,Rutgers,2021,False
+2,Houston,2021,False
+15,Cleveland State,2021,False
+1,Baylor,2021,True
+16,Hartford,2021,False
+8,UNC,2021,False
+9,Wisconsin,2021,False
+5,Villanova,2021,False
+12,Winthrop,2021,False
+4,Purdue,2021,False
+13,North Texas,2021,False
+6,Texas Tech,2021,False
+11,Utah State,2021,False
+3,Arkansas,2021,False
+14,Colgate,2021,False
+7,Florida,2021,False
+10,Virginia Tech,2021,False
+2,Ohio State,2021,False
+15,Oral Roberts,2021,False
+1,Gonzaga,2021,False
+16,Norfolk State,2021,False
+8,Oklahoma,2021,False
+9,Missouri,2021,False
+5,Creighton,2021,False
+12,UCSB,2021,False
+4,Virginia,2021,False
+13,Ohio,2021,False
+6,USC,2021,False
+11,Drake,2021,False
+3,Kansas,2021,False
+14,Eastern Washington,2021,False
+7,Oregon,2021,False
+10,VCU,2021,False
+2,Iowa,2021,False
+15,Grand Canyon,2021,False
+1,Baylor,2022,False
+16,Norfolk State,2022,False
+8,UNC,2022,False
+9,Marquette,2022,False
+5,Saint Mary's,2022,False
+12,Indiana,2022,False
+4,UCLA,2022,False
+13,Akron,2022,False
+6,Texas,2022,False
+11,Virginia Tech,2022,False
+3,Purdue,2022,False
+14,Yale,2022,False
+7,Murray State,2022,False
+10,San Francisco,2022,False
+2,Kentucky,2022,False
+15,St. Peter's,2022,False
+1,Kansas,2022,True
+16,Texas Southern,2022,False
+8,San Diego State,2022,False
+9,Creighton,2022,False
+5,Iowa,2022,False
+12,Richmond,2022,False
+4,Providence,2022,False
+13,South Dakota State,2022,False
+6,LSU,2022,False
+11,Iowa State,2022,False
+3,Wisconsin,2022,False
+14,Colgate,2022,False
+7,USC,2022,False
+10,Miami (FL),2022,False
+2,Auburn,2022,False
+15,Jacksonville State,2022,False
+1,Arizona,2022,False
+16,Wright State,2022,False
+8,Seton Hall,2022,False
+9,TCU,2022,False
+5,Houston,2022,False
+12,UAB,2022,False
+4,Illinois,2022,False
+13,Chattanooga,2022,False
+6,Colorado State,2022,False
+11,Michigan,2022,False
+3,Tennessee,2022,False
+14,Longwood,2022,False
+7,Ohio State,2022,False
+10,Loyola (IL),2022,False
+2,Villanova,2022,False
+15,Delaware,2022,False
+1,Gonzaga,2022,False
+16,Georgia State,2022,False
+8,Boise State,2022,False
+9,Memphis,2022,False
+5,UConn,2022,False
+12,New Mexico State,2022,False
+4,Arkansas,2022,False
+13,Vermont,2022,False
+6,Alabama,2022,False
+11,Notre Dame,2022,False
+3,Texas Tech,2022,False
+14,Montana State,2022,False
+7,Michigan State,2022,False
+10,Davidson,2022,False
+2,Duke,2022,False
+15,Cal State Fullerton,2022,False
+1,Purdue,2023,False
+16,FDU,2023,False
+8,Memphis,2023,False
+9,Florida Atlantic,2023,False
+5,Duke,2023,False
+12,Oral Roberts,2023,False
+4,Tennessee,2023,False
+13,Louisiana,2023,False
+6,Kentucky,2023,False
+11,Providence,2023,False
+3,Kansas State,2023,False
+14,Montana State,2023,False
+7,Michigan State,2023,False
+10,USC,2023,False
+2,Marquette,2023,False
+15,Vermont,2023,False
+1,Houston,2023,False
+16,Northern Kentucky,2023,False
+8,Iowa,2023,False
+9,Auburn,2023,False
+5,Miami (FL),2023,False
+12,Drake,2023,False
+4,Indiana,2023,False
+13,Kent State,2023,False
+6,Iowa State,2023,False
+11,Pitt,2023,False
+3,Xavier,2023,False
+14,Kennesaw State,2023,False
+7,Texas A&M,2023,False
+10,Penn State,2023,False
+2,Texas,2023,False
+15,Colgate,2023,False
+1,Alabama,2023,False
+16,Texas A&M-Corpus Christi,2023,False
+8,Maryland,2023,False
+9,West Virginia,2023,False
+5,San Diego State,2023,False
+12,College of Charleston,2023,False
+4,Virginia,2023,False
+13,Furman,2023,False
+6,Creighton,2023,False
+11,NC State,2023,False
+3,Baylor,2023,False
+14,UCSB,2023,False
+7,Missouri,2023,False
+10,Utah State,2023,False
+2,Arizona,2023,False
+15,Princeton,2023,False
+1,Kansas,2023,False
+16,Howard,2023,False
+8,Arkansas,2023,False
+9,Illinois,2023,False
+5,Saint Mary's,2023,False
+12,VCU,2023,False
+4,UConn,2023,True
+13,Iona,2023,False
+6,TCU,2023,False
+11,Arizona State,2023,False
+3,Gonzaga,2023,False
+14,Grand Canyon,2023,False
+7,Northwestern,2023,False
+10,Boise State,2023,False
+2,UCLA,2023,False
+15,UNC Asheville,2023,False
+1,UConn,2024,True
+16,Stetson,2024,False
+8,Florida Atlantic,2024,False
+9,Northwestern,2024,False
+5,San Diego State,2024,False
+12,UAB,2024,False
+4,Auburn,2024,False
+13,Yale,2024,False
+6,BYU,2024,False
+11,Duquesne,2024,False
+3,Illinois,2024,False
+14,Morehead State,2024,False
+7,Washington State,2024,False
+10,Drake,2024,False
+2,Iowa State,2024,False
+15,South Dakota State,2024,False
+1,Purdue,2024,False
+16,Grambling,2024,False
+8,Utah State,2024,False
+9,TCU,2024,False
+5,Gonzaga,2024,False
+12,McNeese State,2024,False
+4,Kansas,2024,False
+13,Samford,2024,False
+6,South Carolina,2024,False
+11,Oregon,2024,False
+3,Creighton,2024,False
+14,Akron,2024,False
+7,Texas,2024,False
+10,Colorado State,2024,False
+2,Tennessee,2024,False
+15,St. Peter's,2024,False
+1,Houston,2024,False
+16,Longwood,2024,False
+8,Nebraska,2024,False
+9,Texas A&M,2024,False
+5,Wisconsin,2024,False
+12,James Madison,2024,False
+4,Duke,2024,False
+13,Vermont,2024,False
+6,Texas Tech,2024,False
+11,NC State,2024,False
+3,Kentucky,2024,False
+14,Oakland,2024,False
+7,Florida,2024,False
+10,Colorado,2024,False
+2,Marquette,2024,False
+15,Western Kentucky,2024,False
+1,UNC,2024,False
+16,Wagner,2024,False
+8,Mississippi State,2024,False
+9,Michigan State,2024,False
+5,Saint Mary's,2024,False
+12,Grand Canyon,2024,False
+4,Alabama,2024,False
+13,College of Charleston,2024,False
+6,Clemson,2024,False
+11,New Mexico,2024,False
+3,Baylor,2024,False
+14,Colgate,2024,False
+7,Dayton,2024,False
+10,Nevada,2024,False
+2,Arizona,2024,False
+15,Long Beach State,2024,False
+1,Duke,2025,False
+16,Mount St. Mary's,2025,False
+8,Mississippi State,2025,False
+9,Baylor,2025,False
+5,Oregon,2025,False
+12,Liberty,2025,False
+4,Arizona,2025,False
+13,Akron,2025,False
+6,BYU,2025,False
+11,VCU,2025,False
+3,Wisconsin,2025,False
+14,Montana,2025,False
+7,Saint Mary's,2025,False
+10,Vanderbilt,2025,False
+2,Alabama,2025,False
+15,Robert Morris,2025,False
+1,Houston,2025,False
+16,SIU-Edwardsville,2025,False
+8,Gonzaga,2025,False
+9,Georgia,2025,False
+5,Clemson,2025,False
+12,McNeese State,2025,False
+4,Purdue,2025,False
+13,High Point,2025,False
+6,Illinois,2025,False
+11,Xavier,2025,False
+3,Kentucky,2025,False
+14,Troy,2025,False
+7,UCLA,2025,False
+10,Utah State,2025,False
+2,Tennessee,2025,False
+15,Wofford,2025,False
+1,Auburn,2025,False
+16,Alabama State,2025,False
+8,Louisville,2025,False
+9,Creighton,2025,False
+5,Michigan,2025,False
+12,UC-San Diego,2025,False
+4,Texas A&M,2025,False
+13,Yale,2025,False
+6,Ole Miss,2025,False
+11,UNC,2025,False
+3,Iowa State,2025,False
+14,Lipscomb,2025,False
+7,Marquette,2025,False
+10,New Mexico,2025,False
+2,Michigan State,2025,False
+15,Bryant,2025,False
+1,Florida,2025,True
+16,Norfolk State,2025,False
+8,UConn,2025,False
+9,Oklahoma,2025,False
+5,Memphis,2025,False
+12,Colorado State,2025,False
+4,Maryland,2025,False
+13,Grand Canyon,2025,False
+6,Missouri,2025,False
+11,Drake,2025,False
+3,Texas Tech,2025,False
+14,UNC Wilmington,2025,False
+7,Kansas,2025,False
+10,Arkansas,2025,False
+2,St. John's (NY),2025,False
+15,Omaha,2025,False

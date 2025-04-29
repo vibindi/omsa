@@ -1,0 +1,7 @@
+Order of Files:
+
+1. data_collection
+2. data_parsing
+3. data_preparation
+4. feature_selection
+6. model_creation
